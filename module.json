@@ -76,5 +76,28 @@
       },
       "system": "pf2e"
     }
+  ],
+	"packFolders": [
+    {
+      "name": "Elyss Ancestries",
+      "sorting": "m",
+      "folders": [
+        {
+          "name": "Ulfrikin",
+          "sorting": "m",
+          "packs": [
+            "ancestries",
+            "heritages",
+            "actions",
+            "effects",
+            "feats"
+          ],
+          "color": null,
+          "folders": []
+        }
+      ],
+      "color": null,
+      "packs": []
+    }
   ]
 }
