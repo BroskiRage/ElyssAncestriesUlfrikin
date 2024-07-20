@@ -1,0 +1,80 @@
+{
+  "id": "elyss-ancestries-ulfrikin",
+  "title": "Elyss Ancestries: Ulfrikin",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Birk Ross"
+    }
+  ],
+  "packs": [
+    {
+      "name": "ancestries",
+      "label": "Ancestries",
+      "path": "packs/ancestries",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    },
+    {
+      "name": "heritages",
+      "label": "Heritages",
+      "path": "packs/heritages",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    },
+    {
+      "name": "actions",
+      "label": "Actions",
+      "path": "packs/actions",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    },
+    {
+      "name": "effects",
+      "label": "Effects",
+      "path": "packs/effects",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    },
+    {
+      "name": "feats",
+      "label": "Feats",
+      "path": "packs/feats",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    }
+  ]
+}
