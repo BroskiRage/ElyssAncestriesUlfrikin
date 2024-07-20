@@ -7,6 +7,7 @@ The module contains an early version of the Ulfrikin ancestry to be used on Foun
 # Installation
 
 Install this module by pasting this link into the install module dialog on the Foundry Add-on Module tab:
+https://github.com/BroskiRage/ElyssAncestriesUlfrikin/blob/main/module.json
 
 ### Game Icons
 Additional icons were created on https://game-icons.net/
